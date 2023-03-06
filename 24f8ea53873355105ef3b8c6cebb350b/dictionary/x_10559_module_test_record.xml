@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1e9f8b4587cd65105ef3b8c6cebb3576" label="Test Record" max_length="40" name="x_10559_module_test_record" type="collection">
+        <element label="Currency" max_length="20" name="currency" type="currency"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element label="Decimal" max_length="20" name="decimal" type="decimal"/>
+        <element label="Floating Point" max_length="40" name="floating_point" type="float"/>
+        <element label="Integer" max_length="40" name="integer" type="integer"/>
+        <element label="List" max_length="4000" name="list" reference="sys_user" type="glide_list"/>
+        <element label="Reference" max_length="32" name="reference" reference="sys_user" type="reference"/>
+        <element label="String" max_length="40" name="string" type="string"/>
+        <element label="True/False" max_length="40" name="true_false" type="boolean"/>
+        <index name="index">
+            <element name="reference"/>
+        </index>
+    </element>
+</database>

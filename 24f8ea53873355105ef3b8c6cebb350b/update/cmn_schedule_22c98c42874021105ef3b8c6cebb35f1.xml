@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <calendar_name>Arya Hajarha</calendar_name>
+        <description/>
+        <document>sys_user</document>
+        <document_key>dc6053dcd7011200f2d224837e6103e0</document_key>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label>Arya Hajarha</label>
+        <name>Arya Hajarha</name>
+        <parent/>
+        <plural_label/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 17:56:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c98c42874021105ef3b8c6cebb35f1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Arya Hajarha</sys_name>
+        <sys_package display_value="Module Pattern Test" source="x_10559_module">24f8ea53873355105ef3b8c6cebb350b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Module Pattern Test">24f8ea53873355105ef3b8c6cebb350b</sys_scope>
+        <sys_update_name>cmn_schedule_22c98c42874021105ef3b8c6cebb35f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 17:56:01</sys_updated_on>
+        <time_zone>Europe/London</time_zone>
+        <type/>
+    </cmn_schedule>
+</record_update>

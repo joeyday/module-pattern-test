@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="decimal" label="Decimal" language="en" table="x_10559_module_test_record">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>decimal</element>
+            <help/>
+            <hint/>
+            <label>Decimal</label>
+            <language>en</language>
+            <name>x_10559_module_test_record</name>
+            <plural>Decimals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-01 03:47:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Decimal</sys_name>
+            <sys_package display_value="Module Pattern Test" source="x_10559_module">24f8ea53873355105ef3b8c6cebb350b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Module Pattern Test">24f8ea53873355105ef3b8c6cebb350b</sys_scope>
+            <sys_update_name>sys_documentation_x_10559_module_test_record_decimal_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-01 03:47:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
